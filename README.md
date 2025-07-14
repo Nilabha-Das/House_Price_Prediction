@@ -6,9 +6,11 @@ This project predicts house prices in Bengaluru using machine learning. It featu
 
 ```
 House_Price_Prediction/
-├── client/         # Frontend - HTML, CSS, JavaScript
-├── server/         # Backend - Flask API
-├── model/          # Pickle model and related files
+├── client/            # Frontend - HTML, CSS, JavaScript
+├── server/            # Backend - Flask API
+├── model/             # Pickle model and related files
+├── requirements.txt/  # all the dependencies
+├── datset/            # source dataset downloaded from kaggle
 ```
 
 ## 🚀 Features
